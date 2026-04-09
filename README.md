@@ -101,17 +101,32 @@ Detects process execution events from Sysmon.
 
 Evidence of Log Pipeline
 
-| Scenario | Screenshot |
-|----------|------------|
-| Forwarder Monitoring | ![](screenshots/forwarder_monitoring.png) |
-| Permission Issue | ![](screenshots/forwarder_permission.png) |
-| Service Running | ![](screenshots/forwarder_service.png) |
-| Forwarder Connected | ![](screenshots/forwarder2_connected.png) |
-| Receiving Port Configured | ![](screenshots/receiving_port.png) |
-| Sysmon Input Configured | ![](screenshots/sysmon_input.png) |
-| Sysmon Logs in Splunk | ![](screenshots/sysmon_logs.png) |
-| Additional Sysmon Logs | ![](screenshots/sysmon_logs2.png) |
-| Sysmon Operational Logs | ![](screenshots/sysmon_operational_logs.png) |
+### Forwarder Monitoring
+![](screenshots/forwarder_monitoring.png)
+
+### Permission Issue
+![](screenshots/forwarder_permission.png)
+
+### Service Running
+![](screenshots/forwarder_service.png)
+
+### Forwarder Connected
+![](screenshots/forwarder2_connected.png)
+
+### Receiving Port Configured
+![](screenshots/receiving_port.png)
+
+### Sysmon Input Configured
+![](screenshots/sysmon_input.png)
+
+### Sysmon Logs in Splunk
+![](screenshots/sysmon_logs.png)
+
+### Additional Sysmon Logs
+![](screenshots/sysmon_logs2.png)
+
+### Sysmon Operational Logs
+![](screenshots/sysmon_operational_logs.png)
 
 ---
 
